@@ -11,5 +11,5 @@ int b,c
 
 function
 {
-
+int a,b;
 }
