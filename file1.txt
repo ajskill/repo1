@@ -12,4 +12,5 @@ int b,c
 function
 {
 int a,b;
+int x,y,z;
 }
