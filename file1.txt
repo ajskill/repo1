@@ -9,4 +9,7 @@ int a,
 int b,c
 }
 
-function{}
+function
+{
+
+}
